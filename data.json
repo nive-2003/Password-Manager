@@ -1,0 +1,18 @@
+{
+     "amazon": {
+          "email": "example@gmail.com",
+          "password": "O*#$OgO$P*#mq$pK$j"
+     },
+     "ebay": {
+          "email": "example@gmail.com",
+          "password": "$H$Xj*KfthBZ*"
+     },
+     "flipkart": {
+          "email": "example@gmail.com",
+          "password": "z!DfQzdsN!#T#b"
+     },
+     "twitter": {
+          "email": "example@gmail.com",
+          "password": "Vz&j(E%D&D%(IF"
+     }
+}
